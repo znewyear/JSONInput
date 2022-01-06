@@ -1,0 +1,181 @@
+{
+  "projectName": "react-json-editor-ajrm",
+  "projectOwner": "AndrewRedican",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "AndrewRedican",
+      "name": "Andrew Redican",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24832471?v=4",
+      "profile": "https://github.com/AndrewRedican",
+      "contributions": [
+        "talk",
+        "code",
+        "translation",
+        "test"
+      ]
+    },
+    {
+      "login": "PatrickSachs",
+      "name": "Patrick Sachs",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7840502?v=4",
+      "profile": "https://patrick-sachs.de/",
+      "contributions": [
+        "code",
+        "translation",
+        "test"
+      ]
+    },
+    {
+      "login": "AllanKDeveloper",
+      "name": "Allan Kehl",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37770361?v=4",
+      "profile": "https://allankehl.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "esbenvb",
+      "name": "esbenvb",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/426051?v=4",
+      "profile": "https://github.com/esbenvb",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "PetrykowskiM",
+      "name": "Markus Petrykowski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5831420?v=4",
+      "profile": "http://markus-petrykowski.de",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "rickbrunstedt",
+      "name": "Rick Brunstedt",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5797143?v=4",
+      "profile": "https://github.com/rickbrunstedt",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ADirtyCat",
+      "name": "ADirtyCat",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20251640?v=4",
+      "profile": "https://github.com/ADirtyCat",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "cbonaudo",
+      "name": "Cédric",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13097851?v=4",
+      "profile": "https://github.com/cbonaudo",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "radityasurya",
+      "name": "Radit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6660141?v=4",
+      "profile": "http://radityasurya.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "askesis",
+      "name": "asketes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23220242?v=4",
+      "profile": "https://github.com/askesis",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "cgvedant",
+      "name": "C.G.Vedant",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40763859?v=4",
+      "profile": "https://github.com/cgvedant",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "shehbazjafri",
+      "name": "Shehbaz Jafri",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19728508?v=4",
+      "profile": "https://github.com/shehbazjafri",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "vasind",
+      "name": "Vasantha Kumar R B",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5652920?v=4",
+      "profile": "https://www.linkedin.com/in/vasanthakumarbe",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Adityaperiwal",
+      "name": "Aditya Periwal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35131225?v=4",
+      "profile": "https://github.com/Adityaperiwal",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "JustFly1984",
+      "name": "Alexey Lyakhov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2255993?v=4",
+      "profile": "https://github.com/JustFly1984",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "terencehuynh",
+      "name": "Terence Huynh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1747517?v=4",
+      "profile": "http://terencehuynh.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rm-hull",
+      "name": "Richard Hull",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1915543?v=4",
+      "profile": "https://github.com/rm-hull",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tonynguyenit18",
+      "name": "tonynguyenit18",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37351890?v=4",
+      "profile": "https://github.com/tonynguyenit18",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "commitConvention": "none"
+}
